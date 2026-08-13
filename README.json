@@ -1,0 +1,2142 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Agents Development Path"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Conceptual Framework of the Self-Evolving AI Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(EMNLP'25 Demo) EvoAgentX: An Automated Framework for Evolving Agentic Workflows [💻 Code",
+          "description": "] [📝 Paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T09:07:14Z",
+            "owner": "EvoAgentX",
+            "repo": "EvoAgentX",
+            "stars": 3225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-25T09:04:05Z",
+            "owner": "MASWorks",
+            "repo": "MASLab",
+            "stars": 245
+          }
+        }
+      ],
+      "title": "Open-Source Framework"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Single-Agent Optimisation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1.1 🤖 LLM Behaviour Optimisation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1.1.1 📌 Training-Based Behaviour Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) ToRA: A tool-integrated reasoning agent for mathematical problem solving [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-22T09:46:48Z",
+            "owner": "microsoft",
+            "repo": "ToRA",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(NeurIPS'22) STaR : Bootstrapping reasoning with reasoning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-21T18:19:34Z",
+            "owner": "ezelikman",
+            "repo": "STaR",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICML'25) MAS-GPT: Training LLMs to build LLM-based multi-agent systems [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-26T08:58:33Z",
+            "owner": "MASWorks",
+            "repo": "MAS-GPT",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "(1) 🔧 Supervised Fine-Tuning Approaches"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(Arxiv'24) Tulu 3: Pushing Frontiers in Open Language Model Post-Training [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:43:38Z",
+            "owner": "allenai",
+            "repo": "open-instruct",
+            "stars": 3829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICML'24) Self-Rewarding Language Models [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-11T01:09:42Z",
+            "owner": "lucidrains",
+            "repo": "self-rewarding-lm-pytorch",
+            "stars": 1412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) R-Zero: Self-Evolving Reasoning LLM from Zero Data [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T23:48:41Z",
+            "owner": "Chengsong-Huang",
+            "repo": "R-Zero",
+            "stars": 834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-30T02:42:46Z",
+            "owner": "sii-research",
+            "repo": "siiRL",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Parallel-R1: Towards Parallel Thinking via Reinforcement Learning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T03:56:40Z",
+            "owner": "zhengkid",
+            "repo": "Parallel-R1",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) SSRL: Self-Search Reinforcement Learning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-20T10:25:29Z",
+            "owner": "TsinghuaC3I",
+            "repo": "SSRL",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-27T21:07:48Z",
+            "owner": "spiral-rl",
+            "repo": "spiral",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T06:24:32Z",
+            "owner": "wangqinsi1",
+            "repo": "RLSVR",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(EMNLP'24) Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-14T02:50:35Z",
+            "owner": "SparkJiao",
+            "repo": "dpo-trajectory-reasoning",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICML'25) Diving into Self-Evolving Training for Multimodal Reasoning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-13T03:45:25Z",
+            "owner": "hkust-nlp",
+            "repo": "mstar",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-24T13:20:33Z",
+            "owner": "wantbook-book",
+            "repo": "SeRL",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "(2) 🔧 Reinforcement Learning Approaches"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1.1.2 📌 Test-Time Behaviour Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ICLR'23) CodeT: Code Generation with Generated Tests [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-01T13:04:36Z",
+            "owner": "microsoft",
+            "repo": "CodeT",
+            "stars": 678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-03T06:15:27Z",
+            "owner": "SkyworkAI",
+            "repo": "Skywork-Reward-V2",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICML'23) LEVER: Learning to Verify Language-to-Code Generation with Execution [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-05T09:06:23Z",
+            "owner": "niansong1996",
+            "repo": "lever",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(EMNLP'24) Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-14T02:50:35Z",
+            "owner": "SparkJiao",
+            "repo": "dpo-trajectory-reasoning",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "(1) 🔧 Feedback-Based Approaches"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(NeurIPS'23) Tree of thoughts: Deliberate problem solving with large language models [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-16T20:02:00Z",
+            "owner": "princeton-nlp",
+            "repo": "tree-of-thought-llm",
+            "stars": 6047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(AAAI'24) Graph of thoughts: Solving elaborate problems with large language models [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T17:26:16Z",
+            "owner": "spcl",
+            "repo": "graph-of-thoughts",
+            "stars": 2831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(NeurIPS'24) AIDE: An Automatic Data Science Agent [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T18:12:00Z",
+            "owner": "WecoAI",
+            "repo": "aideml",
+            "stars": 1473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(NeurIPS'24) Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-28T11:56:05Z",
+            "owner": "YangLing0818",
+            "repo": "buffer-of-thought-llm",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICML'25) Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T13:35:36Z",
+            "owner": "iamhankai",
+            "repo": "Forest-of-Thought",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ACL'23) Solving Math Word Problems via Cooperative Reasoning induced Language Models [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-15T13:42:08Z",
+            "owner": "TianHongZXY",
+            "repo": "CoRe",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(COLM'24) Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-14T15:04:07Z",
+            "owner": "OSU-NLP-Group",
+            "repo": "Deductive-Beam-Search",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "(2) 🔧 Search-Based Approaches"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1.2 💬 Prompt Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ACL'24) Plum: Prompt Learning using Metaheuristic [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-13T10:05:50Z",
+            "owner": "research4pan",
+            "repo": "Plum",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(EACL'23) GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-23T12:21:15Z",
+            "owner": "archiki",
+            "repo": "GrIPS",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'23) TEMPERA: Test-Time Prompting via Reinforcement Learning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-10T02:16:16Z",
+            "owner": "tianjunz",
+            "repo": "TEMPERA",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(EMNLP'22) GPS: Genetic Prompt Search for Efficient Few-shot Learning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-31T06:26:24Z",
+            "owner": "hwxu20",
+            "repo": "GPS",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "1.2.1 📌 Edit-Based Prompt Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(EMNLP'24) Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:41:42Z",
+            "owner": "stanfordnlp",
+            "repo": "dspy",
+            "stars": 37154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'23) Large Language Models Are Human-Level Prompt Engineers [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-29T12:58:17Z",
+            "owner": "keirp",
+            "repo": "automatic_prompt_engineer",
+            "stars": 1362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) Large Language Models as Optimizers [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-04T21:04:50Z",
+            "owner": "google-deepmind",
+            "repo": "opro",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-17T05:33:45Z",
+            "owner": "maitrix-org",
+            "repo": "PromptAgent",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-02T21:12:00Z",
+            "owner": "weirayao",
+            "repo": "Retroformer",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'24) Prompt Optimization with Human Feedback [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-07T16:59:20Z",
+            "owner": "xqlin98",
+            "repo": "APOHF",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "1.2.3 📌 Generative Prompt Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(EMNLP'23) Automatic Prompt Optimization with \"Gradient Descent\" and Beam Search [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T06:15:21Z",
+            "owner": "microsoft",
+            "repo": "LMOps",
+            "stars": 4461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'24) TextGrad: Automatic \"Differentiation\" via Text [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-25T14:30:39Z",
+            "owner": "zou-group",
+            "repo": "textgrad",
+            "stars": 3694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'24) How to Correctly do Semantic Backpropagation on Language-based Agentic Systems [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-06T18:18:09Z",
+            "owner": "HishamAlyahya",
+            "repo": "semantic_backprop",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(AAAI'25) Unleashing the Potential of Large Language Models as Prompt Optimizers: Analogical Analysis with Gradient-based Model Optimizers [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-12T13:27:04Z",
+            "owner": "RUCAIBox",
+            "repo": "GPO",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICML'25) REVOLVE: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-13T02:26:54Z",
+            "owner": "Peiyance",
+            "repo": "REVOLVE",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "1.2.4 📌 Text Gradient-Based Prompt Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Memento: Fine‑tuning LLM Agents without Fine‑tuning LLMs [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-05T14:34:18Z",
+            "owner": "Memento-Teams",
+            "repo": "Memento",
+            "stars": 2564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-12T06:03:56Z",
+            "owner": "ByteDance-Seed",
+            "repo": "m3-agent",
+            "stars": 1440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) Boosting knowledge intensive reasoning of llms via inference-time hybrid information [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-18T02:48:33Z",
+            "owner": "icip-cas",
+            "repo": "StructRAG",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "1.3 🧠 Memory Optimization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1.4 🧰 Tool Optimization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1.4.1 📌 Training-Based Tool Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-21T15:46:59Z",
+            "owner": "OpenBMB",
+            "repo": "ToolBench",
+            "stars": 5728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(NeurIPS'23) GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-19T01:55:15Z",
+            "owner": "AILab-CVC",
+            "repo": "GPT4Tools",
+            "stars": 771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ACL'24) LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-06T22:19:36Z",
+            "owner": "microsoft",
+            "repo": "simulated-trial-and-error",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-18T07:52:24Z",
+            "owner": "mat-agent",
+            "repo": "MAT-Agent",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(AAAI'24) Confucius: Iterative tool learning from introspection feedback by easy-to-difficult curriculum [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-09T00:47:37Z",
+            "owner": "shizhl",
+            "repo": "Confucius",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-18T06:50:28Z",
+            "owner": "PKU-Baichuan-MLSystemLab",
+            "repo": "BUTTON",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) Learning Evolving Tools for Large Language Models [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-25T04:37:46Z",
+            "owner": "Chen-GX",
+            "repo": "ToolEVO",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICML'25) Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T08:54:14Z",
+            "owner": "Rose-STL-Lab",
+            "repo": "Adapting-While-Learning",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "(1) Supervised Fine-Tuning for Tool Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Agentic Reinforced Policy Optimization [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T07:06:28Z",
+            "owner": "RUC-NLPIR",
+            "repo": "ARPO",
+            "stars": 1105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) ToolRL: Reward is All Tool Learning Needs [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T16:17:55Z",
+            "owner": "qiancheng0",
+            "repo": "ToolRL",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-03T06:54:03Z",
+            "owner": "RUC-NLPIR",
+            "repo": "Tool-Star",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) ReTool: Reinforcement Learning for Strategic Tool Use in LLMs [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-12T12:53:17Z",
+            "owner": "ReTool-RL",
+            "repo": "ReTool",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-02T15:50:23Z",
+            "owner": "NVlabs",
+            "repo": "Tool-N1",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-04T05:02:44Z",
+            "owner": "weiyifan1023",
+            "repo": "AutoTIR",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-18T07:42:34Z",
+            "owner": "SPORT-Agents",
+            "repo": "SPORT-Agents",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "(2) Reinforcement Learning for Tool Optimisation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1.4.2 📌 Inference-Time Tool Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(NAACL'25) EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-29T13:44:13Z",
+            "owner": "microsoft",
+            "repo": "JARVIS",
+            "stars": 25160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-09T02:53:36Z",
+            "owner": "quchangle1",
+            "repo": "DRAFT",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ACL'25) Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-29T09:45:00Z",
+            "owner": "wfangtw",
+            "repo": "play2prompt",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "(1) Prompt-Based Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) MCP-Zero: Active Tool Discovery for Autonomous LLM Agents [📝 Paper",
+          "description": "][💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-02T11:54:21Z",
+            "owner": "xfey",
+            "repo": "MCP-Zero",
+            "stars": 503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) Tool-Planner: Task Planning with Clusters across Multiple Tools [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-26T17:02:34Z",
+            "owner": "OceannTwT",
+            "repo": "Tool-Planner",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-04T16:30:24Z",
+            "owner": "beijixiong1",
+            "repo": "ToolLLM",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "(2) Reasoning-Based Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-30T17:49:41Z",
+            "owner": "CharlesQ9",
+            "repo": "Alita",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(EMNLP'23) CREATOR : Tool creation for disentangling abstract and concrete reasoning of large language model [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-08T13:30:36Z",
+            "owner": "qiancheng0",
+            "repo": "CREATOR",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(CVPR'24) CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-19T21:07:06Z",
+            "owner": "clova-tool",
+            "repo": "CLOVA-tool",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "1.4.3 📌 Tool Functionality Optimisation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Multi-Agent Optimisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) AFlow: Automating Agentic Workflow Generation [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(COLM'24) AutoGen: Enabling next-Gen LLM Applications via Multi-Agent Conversations [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) DSPy: Compiling Declarative Language Model Calls into State-of-the-Art Pipelines [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:41:42Z",
+            "owner": "stanfordnlp",
+            "repo": "dspy",
+            "stars": 37154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv' 25) R&D-Agent: Automating Data-Driven AI Solution Building Through LLM-Powered Automated Research, Development, and Evolution [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:50:56Z",
+            "owner": "microsoft",
+            "repo": "RD-Agent",
+            "stars": 14216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'24) Symbolic Learning Enables Self-Evolving Agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-26T03:12:53Z",
+            "owner": "aiwaves-cn",
+            "repo": "agents",
+            "stars": 5957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T05:47:44Z",
+            "owner": "OpenBMB",
+            "repo": "AgentVerse",
+            "stars": 5102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) Automated Design of Agentic Systems [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-28T06:37:51Z",
+            "owner": "ShengranHu",
+            "repo": "ADAS",
+            "stars": 1628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICML'24) GPTSwarm: Language Agents as Optimizable Graphs [📝 Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T10:39:09Z",
+            "owner": "metauto-ai",
+            "repo": "GPTSwarm",
+            "stars": 1034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'26) CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:40:48Z",
+            "owner": "Human-Agent-Society",
+            "repo": "CORAL",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Chain‑of‑Agents: End‑to‑End Agent Foundation Models via Multi‑Agent Distillation and Agentic RL [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-08T13:17:33Z",
+            "owner": "OPPO-PersonalAI",
+            "repo": "Agent_Foundation_Models",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv’25) Agent KB: Leveraging Cross‑Domain Experience for Agentic Problem Solving [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-19T03:04:36Z",
+            "owner": "OPPO-PersonalAI",
+            "repo": "Agent-KB",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICML'25) Multi-Agent Architecture Search via Agentic Supernet [📝 Paper",
+          "description": "] [💻Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T02:37:29Z",
+            "owner": "bingreeky",
+            "repo": "MaAS",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) ScoreFlow: Mastering LLM Agent Workflows via Score-Based Preference Optimization [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-22T05:32:48Z",
+            "owner": "Gen-Verse",
+            "repo": "ScoreFlow",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'24) AutoFlow: Automated Workflow Generation for Large Language Model Agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-11T16:13:39Z",
+            "owner": "agiresearch",
+            "repo": "AutoFlow",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) Self-Evolving Multi-Agent Collaboration Networks for Software Development [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-29T14:53:43Z",
+            "owner": "yuzhu-cai",
+            "repo": "rSDE-Bench",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "2.2 🚀 MAS Optimisation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3. Domain-Specific Optimisation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.1 🧬 Biomedicine"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(NeurIPS'24) MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-10T19:26:09Z",
+            "owner": "mitmedialab",
+            "repo": "MDAgents",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(EMNLP'24) MMedAgent: Learning to Use Medical Tools with Multi-modal Agent [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T07:16:08Z",
+            "owner": "Wangyixinxin",
+            "repo": "MMedAgent",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-12T09:53:27Z",
+            "owner": "jinlab-imvr",
+            "repo": "MedAgent-Pro",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(MICCAI'25) MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T20:36:21Z",
+            "owner": "MAXNORM8650",
+            "repo": "MedAgentSim",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) STELLA: Self-Evolving LLM Agent for Biomedical Research [📝 Paper",
+          "description": "][💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T01:24:40Z",
+            "owner": "zaixizhang",
+            "repo": "STELLA",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-21T12:33:14Z",
+            "owner": "weiyifan1023",
+            "repo": "senator",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research [📝 Paper",
+          "description": "][💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-18T11:19:52Z",
+            "owner": "yhzhu99",
+            "repo": "HealthFlow",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T10:45:52Z",
+            "owner": "KaiChenNJ",
+            "repo": "MDTeamGPT",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "3.1.1 📌 Medical Diagnosis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(NMI'24) ChemCrow: Augmenting large language models with chemistry tools [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-19T17:47:04Z",
+            "owner": "ur-whitelab",
+            "repo": "chemcrow-public",
+            "stars": 943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T02:09:09Z",
+            "owner": "Liu-Hy",
+            "repo": "GenoMAS",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning[📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-31T08:54:14Z",
+            "owner": "gersteinlab",
+            "repo": "ChemAgent",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ACS omega'24) CACTUS: Chemistry Agent Connecting Tool-Usage to Science [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-07T20:47:00Z",
+            "owner": "pnnl",
+            "repo": "cactus",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "3.1.2 📌 Molecular Discovery"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.2 💻 Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) OpenHands: An Open Platform for AI Software Developers as Generalist Agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:24:05Z",
+            "owner": "OpenHands",
+            "repo": "OpenHands",
+            "stars": 83853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Software'25) OpenEvolve: an open-source evolutionary coding agent [📝 Instructions",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T13:16:12Z",
+            "owner": "algorithmicsuperintelligence",
+            "repo": "openevolve",
+            "stars": 6902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-13T10:40:14Z",
+            "owner": "jennyzzt",
+            "repo": "dgm",
+            "stars": 2223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'23) Self-Refine: Iterative Refinement with Self-Feedback [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-04T21:06:28Z",
+            "owner": "madaan",
+            "repo": "self-refine",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'23) AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-18T06:38:17Z",
+            "owner": "huangd1999",
+            "repo": "AgentCoder",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) Self-Evolving Multi-Agent Collaboration Networks for Software Development [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-29T14:53:43Z",
+            "owner": "yuzhu-cai",
+            "repo": "rSDE-Bench",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(EMNLP'24) CodeAgent: Autonomous Communicative Agents for Code Review [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-16T21:36:49Z",
+            "owner": "Daniel4SE",
+            "repo": "codeagent",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "3.2.1 📌 Code Refinement"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.4 💰📚 Financial and Legal Research"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:50:56Z",
+            "owner": "microsoft",
+            "repo": "RD-Agent",
+            "stars": 14216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'24) FinRobot: an open-source ai agent platform for financial applications using large language models [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-27T07:06:05Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinRobot",
+            "stars": 7771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'24) PEER: Expertizing domain-specific tasks with a multi-agent framework and tuning methods [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T08:18:07Z",
+            "owner": "agentuniverse-ai",
+            "repo": "agentUniverse",
+            "stars": 2327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(NeurIPS'25) Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-27T04:20:54Z",
+            "owner": "The-FinAI",
+            "repo": "FinCon",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "3.4.1 📌 Financial Decision-Making"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(Arxiv'24) LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-11T07:20:19Z",
+            "owner": "pengxiao-song",
+            "repo": "LaWGPT",
+            "stars": 6056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ACL Findings'25) AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-05T06:17:19Z",
+            "owner": "relic-yuexi",
+            "repo": "AgentCourt",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "3.4.2 📌 Legal Reasoning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4. Evaluation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(NeurIPS'23) OpenAGI: When LLM Meets Domain Experts [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-28T15:48:29Z",
+            "owner": "agiresearch",
+            "repo": "OpenAGI",
+            "stars": 2281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) MLGym: A New Framework and Benchmark for Advancing AI Research Agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-10T20:00:53Z",
+            "owner": "facebookresearch",
+            "repo": "MLGym",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-30T22:15:24Z",
+            "owner": "MASWorks",
+            "repo": "X-MAS",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "4.1 📈 Benchmark-Based Evaluation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(EMNLP'23) API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T11:18:20Z",
+            "owner": "AlibabaResearch",
+            "repo": "DAMO-ConvAI",
+            "stars": 1575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(NeurIPS'23) ToolQA: A Dataset for LLM Question Answering with External Tools [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-19T02:34:22Z",
+            "owner": "night-chen",
+            "repo": "ToolQA",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'23) On the Tool Manipulation Capability of Open-source Large Language Models [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T18:02:55Z",
+            "owner": "sambanova",
+            "repo": "toolbench",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-21T18:45:01Z",
+            "owner": "HowieHwong",
+            "repo": "MetaTool",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Enhancing Open-Domain Task-Solving Capability of LLMs via Autonomous Tool Integration from GitHub [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-10-09T05:36:43Z",
+            "owner": "OpenBMB",
+            "repo": "OpenAct",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "4.1.1 📌 Tool and API-Driven Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ACL'25) WebWalker: Benchmarking LLMs in Web Traversal [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T13:12:11Z",
+            "owner": "Alibaba-NLP",
+            "repo": "DeepResearch",
+            "stars": 19818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T22:16:18Z",
+            "owner": "openai",
+            "repo": "simple-evals",
+            "stars": 4598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) WebArena: A Realistic Web Environment for Building Autonomous Agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T21:16:00Z",
+            "owner": "web-arena-x",
+            "repo": "webarena",
+            "stars": 1576
+          }
+        }
+      ],
+      "title": "4.1.2 📌 Web Navigation and Browsing Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:11:44Z",
+            "owner": "SWE-bench",
+            "repo": "SWE-bench",
+            "stars": 5626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) Self-Evolving Multi-Agent Collaboration Networks for Software Development [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-29T14:53:43Z",
+            "owner": "yuzhu-cai",
+            "repo": "rSDE-Bench",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "4.1.3 📌 Coding Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ICLR'24) AgentBench: Evaluating LLMs as Agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T17:01:05Z",
+            "owner": "THUDM",
+            "repo": "AgentBench",
+            "stars": 3664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-21T15:47:58Z",
+            "owner": "MultiagentBench",
+            "repo": "MARBLE",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) Benchmarking LLMs' Swarm intelligence [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-21T09:19:42Z",
+            "owner": "RUC-GSAI",
+            "repo": "YuLan-SwarmIntell",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "4.1.4 📌 Multi-Agent Collaboration and Generalists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(NeurIPS'24) OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:12:29Z",
+            "owner": "xlang-ai",
+            "repo": "OSWorld",
+            "stars": 3078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ICLR'25) AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T20:18:37Z",
+            "owner": "google-research",
+            "repo": "android_world",
+            "stars": 847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ACL'24) Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-06T07:25:19Z",
+            "owner": "XiaoMi",
+            "repo": "MobileBench",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "4.1.5 📌 GUI and Multimodal Environment Agents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4.2 ⚖️ LLM-Based Evaluation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ACL'25) Auto-Arena: Automating LLM Evaluations with Agent Peer Debate and Committee Voting [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-07T02:38:52Z",
+            "owner": "DAMO-NLP-SG",
+            "repo": "Auto-Arena-LLMs",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Arxiv'25) LiveIdeaBench: Evaluating LLMs’ Divergent Thinking for Scientific Idea Generation with Minimal Context [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-21T02:04:12Z",
+            "owner": "x66ccff",
+            "repo": "liveideabench",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "4.2.1 📌 LLM-as-a-Judge"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(ICLR'25 Spotlight) AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-08T04:24:51Z",
+            "owner": "SaFo-Lab",
+            "repo": "AutoDAN-Turbo",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(ACL'25) AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection [📝 Paper",
+          "description": "] [💻 Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T02:53:00Z",
+            "owner": "SaFo-Lab",
+            "repo": "AGrail4Agent",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "4.3 🛡 Safety, Alignment, and Robustness for Lifelong / Self-Evolving Agents"
+    },
+    {
+      "description": "If you find this survey useful in your research and applications, please cite using this BibTeX:",
+      "items": [],
+      "title": "📚 Citation"
+    },
+    {
+      "description": "We would like to thank Shuyu Guo for his valuable contributions to the early-stage exploration and literature review on agent optimisation.",
+      "items": [],
+      "title": "☕ Acknowledgement"
+    },
+    {
+      "description": "If you have any questions or suggestions, please feel free to contact us via:\nEmail: j.fang.2@research.gla.ac.uk and zaiqiao.meng@gmail.com",
+      "items": [],
+      "title": "✉️ Contact Us"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:06.549Z",
+    "original_repository": "EvoAgentX/Awesome-Self-Evolving-Agents",
+    "original_repository_sha": "ab0c0118e81775bc9a364ad4bbbfd3856063af93",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Self-Evolving-Agents",
+    "enhanced_repository_description": null,
+    "title": "Awesome Self Evolving Agents with stars"
+  }
+}
