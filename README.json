@@ -1558,10 +1558,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2025-07-29T13:44:13Z",
-                        "open_issues": 4023,
+                        "open_issues": 4025,
                         "owner": "microsoft",
                         "repo": "JARVIS",
-                        "stars": 25212,
+                        "stars": 25213,
                         "topics": [
                           "deep-learning",
                           "platform",
@@ -1908,7 +1908,7 @@
                 "open_issues": 992,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60679,
+                "stars": 60680,
                 "topics": [
                   "agentic",
                   "agentic-agi",
@@ -1961,7 +1961,7 @@
                 "open_issues": 199,
                 "owner": "microsoft",
                 "repo": "RD-Agent",
-                "stars": 14356,
+                "stars": 14357,
                 "topics": [
                   "agent",
                   "ai",
@@ -2579,7 +2579,7 @@
                     "open_issues": 604,
                     "owner": "OpenHands",
                     "repo": "OpenHands",
-                    "stars": 85480,
+                    "stars": 85481,
                     "topics": [
                       "agent",
                       "artificial-intelligence",
@@ -2814,7 +2814,7 @@
                     "open_issues": 199,
                     "owner": "microsoft",
                     "repo": "RD-Agent",
-                    "stars": 14356,
+                    "stars": 14357,
                     "topics": [
                       "agent",
                       "ai",
@@ -3218,7 +3218,7 @@
                     "open_issues": 92,
                     "owner": "Alibaba-NLP",
                     "repo": "DeepResearch",
-                    "stars": 19883,
+                    "stars": 19884,
                     "topics": [
                       "agent",
                       "alibaba",
@@ -3462,7 +3462,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-21T09:11:07Z",
-                    "open_issues": 199,
+                    "open_issues": 200,
                     "owner": "xlang-ai",
                     "repo": "OSWorld",
                     "stars": 3112,
@@ -3501,7 +3501,7 @@
                     "open_issues": 47,
                     "owner": "google-research",
                     "repo": "android_world",
-                    "stars": 865,
+                    "stars": 866,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:06:19.763Z"
@@ -3691,7 +3691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:42:41.969Z",
+    "last_updated": "2026-08-29T04:24:50.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems",
