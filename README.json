@@ -158,10 +158,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-03T01:09:47Z",
-                        "open_issues": 121,
+                        "open_issues": 125,
                         "owner": "allenai",
                         "repo": "open-instruct",
-                        "stars": 3879,
+                        "stars": 3880,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:06:19.763Z"
@@ -1564,10 +1564,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2025-07-29T13:44:13Z",
-                        "open_issues": 4151,
+                        "open_issues": 4153,
                         "owner": "microsoft",
                         "repo": "JARVIS",
-                        "stars": 25378,
+                        "stars": 25379,
                         "topics": [
                           "deep-learning",
                           "platform",
@@ -1860,7 +1860,7 @@
                 "open_issues": 144,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70718,
+                "stars": 70719,
                 "topics": [
                   "agent",
                   "gpt",
@@ -1887,7 +1887,7 @@
                 "open_issues": 144,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70718,
+                "stars": 70719,
                 "topics": [
                   "agent",
                   "gpt",
@@ -1914,7 +1914,7 @@
                 "open_issues": 1109,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 61248,
+                "stars": 61249,
                 "topics": [
                   "agentic",
                   "agentic-agi",
@@ -1967,7 +1967,7 @@
                 "open_issues": 234,
                 "owner": "microsoft",
                 "repo": "RD-Agent",
-                "stars": 14824,
+                "stars": 14825,
                 "topics": [
                   "agent",
                   "ai",
@@ -1997,7 +1997,7 @@
                 "open_issues": 49,
                 "owner": "aiwaves-cn",
                 "repo": "agents",
-                "stars": 5964,
+                "stars": 5965,
                 "topics": [
                   "autonomous-agents",
                   "language-model",
@@ -2057,7 +2057,7 @@
             {
               "node_type": "item",
               "title": "(ICML'24) GPTSwarm: Language Agents as Optimizable Graphs [📝 Paper",
-              "description": "] [Code]",
+              "description": "metauto-ai/GPTSwarm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2585,7 +2585,7 @@
                     "open_issues": 866,
                     "owner": "OpenHands",
                     "repo": "OpenHands",
-                    "stars": 89826,
+                    "stars": 89831,
                     "topics": [
                       "agent",
                       "artificial-intelligence",
@@ -2616,7 +2616,7 @@
                     "open_issues": 105,
                     "owner": "algorithmicsuperintelligence",
                     "repo": "openevolve",
-                    "stars": 7480,
+                    "stars": 7481,
                     "topics": [
                       "alpha-evolve",
                       "alphacode",
@@ -2820,7 +2820,7 @@
                     "open_issues": 234,
                     "owner": "microsoft",
                     "repo": "RD-Agent",
-                    "stars": 14824,
+                    "stars": 14825,
                     "topics": [
                       "agent",
                       "ai",
@@ -2850,7 +2850,7 @@
                     "open_issues": 76,
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinRobot",
-                    "stars": 8121,
+                    "stars": 8124,
                     "topics": [
                       "aiagent",
                       "chatgpt",
@@ -2880,7 +2880,7 @@
                     "open_issues": 2574,
                     "owner": "agentuniverse-ai",
                     "repo": "agentUniverse",
-                    "stars": 2374,
+                    "stars": 2375,
                     "topics": [
                       "agent",
                       "ai",
@@ -3224,7 +3224,7 @@
                     "open_issues": 96,
                     "owner": "Alibaba-NLP",
                     "repo": "DeepResearch",
-                    "stars": 20000,
+                    "stars": 20001,
                     "topics": [
                       "agent",
                       "alibaba",
@@ -3697,7 +3697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:11:12.314Z",
+    "last_updated": "2026-10-03T04:29:23.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems",
