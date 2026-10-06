@@ -157,11 +157,11 @@
                         "id": 651622038,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-06T01:32:40Z",
-                        "open_issues": 123,
+                        "last_commit": "2026-10-06T03:59:24Z",
+                        "open_issues": 124,
                         "owner": "allenai",
                         "repo": "open-instruct",
-                        "stars": 3883,
+                        "stars": 3884,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:06:19.763Z"
@@ -293,7 +293,7 @@
                         "open_issues": 1,
                         "owner": "spiral-rl",
                         "repo": "spiral",
-                        "stars": 207,
+                        "stars": 208,
                         "topics": [
                           "large-language-models",
                           "multi-agent-reinforcement-learning",
@@ -541,7 +541,7 @@
                         "open_issues": 7,
                         "owner": "spcl",
                         "repo": "graph-of-thoughts",
-                        "stars": 2840,
+                        "stars": 2841,
                         "topics": [
                           "graph-of-thoughts",
                           "graph-structures",
@@ -874,7 +874,7 @@
                     "open_issues": 770,
                     "owner": "stanfordnlp",
                     "repo": "dspy",
-                    "stars": 38508,
+                    "stars": 38514,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:06:19.763Z"
@@ -1564,10 +1564,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2025-07-29T13:44:13Z",
-                        "open_issues": 4165,
+                        "open_issues": 4168,
                         "owner": "microsoft",
                         "repo": "JARVIS",
-                        "stars": 25392,
+                        "stars": 25394,
                         "topics": [
                           "deep-learning",
                           "platform",
@@ -1860,7 +1860,7 @@
                 "open_issues": 142,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70754,
+                "stars": 70760,
                 "topics": [
                   "agent",
                   "gpt",
@@ -1887,7 +1887,7 @@
                 "open_issues": 142,
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70754,
+                "stars": 70760,
                 "topics": [
                   "agent",
                   "gpt",
@@ -1911,10 +1911,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-04-15T11:59:09Z",
-                "open_issues": 1102,
+                "open_issues": 1101,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 61268,
+                "stars": 61272,
                 "topics": [
                   "agentic",
                   "agentic-agi",
@@ -1946,7 +1946,7 @@
                 "open_issues": 770,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38508,
+                "stars": 38514,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:19.763Z"
@@ -1967,7 +1967,7 @@
                 "open_issues": 235,
                 "owner": "microsoft",
                 "repo": "RD-Agent",
-                "stars": 14847,
+                "stars": 14852,
                 "topics": [
                   "agent",
                   "ai",
@@ -1997,7 +1997,7 @@
                 "open_issues": 49,
                 "owner": "aiwaves-cn",
                 "repo": "agents",
-                "stars": 5964,
+                "stars": 5965,
                 "topics": [
                   "autonomous-agents",
                   "language-model",
@@ -2070,7 +2070,7 @@
                 "open_issues": 4,
                 "owner": "metauto-ai",
                 "repo": "GPTSwarm",
-                "stars": 1051,
+                "stars": 1052,
                 "topics": [
                   "agent",
                   "ai",
@@ -2101,7 +2101,7 @@
                 "open_issues": 23,
                 "owner": "Human-Agent-Society",
                 "repo": "CORAL",
-                "stars": 1043,
+                "stars": 1044,
                 "topics": [
                   "agent-framework",
                   "agent-orchestration",
@@ -2347,7 +2347,7 @@
                     "open_issues": 0,
                     "owner": "MAXNORM8650",
                     "repo": "MedAgentSim",
-                    "stars": 181,
+                    "stars": 182,
                     "topics": [
                       "multi-agent-simulations"
                     ]
@@ -2581,11 +2581,11 @@
                     "id": 771302083,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T02:13:59Z",
-                    "open_issues": 921,
+                    "last_commit": "2026-10-06T07:27:07Z",
+                    "open_issues": 911,
                     "owner": "OpenHands",
                     "repo": "OpenHands",
-                    "stars": 90061,
+                    "stars": 90088,
                     "topics": [
                       "agent",
                       "artificial-intelligence",
@@ -2612,8 +2612,8 @@
                     "id": 984096689,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-29T03:59:52Z",
-                    "open_issues": 104,
+                    "last_commit": "2026-10-06T06:08:15Z",
+                    "open_issues": 103,
                     "owner": "algorithmicsuperintelligence",
                     "repo": "openevolve",
                     "stars": 7495,
@@ -2820,7 +2820,7 @@
                     "open_issues": 235,
                     "owner": "microsoft",
                     "repo": "RD-Agent",
-                    "stars": 14847,
+                    "stars": 14852,
                     "topics": [
                       "agent",
                       "ai",
@@ -2850,7 +2850,7 @@
                     "open_issues": 77,
                     "owner": "AI4Finance-Foundation",
                     "repo": "FinRobot",
-                    "stars": 8140,
+                    "stars": 8143,
                     "topics": [
                       "aiagent",
                       "chatgpt",
@@ -2880,7 +2880,7 @@
                     "open_issues": 2575,
                     "owner": "agentuniverse-ai",
                     "repo": "agentUniverse",
-                    "stars": 2374,
+                    "stars": 2375,
                     "topics": [
                       "agent",
                       "ai",
@@ -3036,7 +3036,7 @@
                 "open_issues": 10,
                 "owner": "agiresearch",
                 "repo": "OpenAGI",
-                "stars": 2287,
+                "stars": 2288,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:19.763Z"
@@ -3224,7 +3224,7 @@
                     "open_issues": 96,
                     "owner": "Alibaba-NLP",
                     "repo": "DeepResearch",
-                    "stars": 20011,
+                    "stars": 20012,
                     "topics": [
                       "agent",
                       "alibaba",
@@ -3307,7 +3307,7 @@
                     "open_issues": 27,
                     "owner": "SWE-bench",
                     "repo": "SWE-bench",
-                    "stars": 5977,
+                    "stars": 5980,
                     "topics": [
                       "benchmark",
                       "language-model",
@@ -3624,7 +3624,7 @@
                     "open_issues": 10,
                     "owner": "metauto-ai",
                     "repo": "agent-as-a-judge",
-                    "stars": 832,
+                    "stars": 833,
                     "topics": [
                       "agent-as-a-judge",
                       "llm-as-a-judge",
@@ -3697,7 +3697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:17:39.523Z",
+    "last_updated": "2026-10-06T10:39:13.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems",
