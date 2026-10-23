@@ -40,7 +40,7 @@
 ## Open-Source Framework
 
 * (*EMNLP'25 Demo*) **EvoAgentX**: An Automated Framework for Evolving Agentic Workflows
-  \[[💻 Code](https://github.com/EvoAgentX/EvoAgentX) ⭐ 3,396 | 🐛 31 | 🌐 Python | 📅 2026-08-27] \[[📝 Paper](https://arxiv.org/abs/2507.03616)]
+  \[[💻 Code](https://github.com/EvoAgentX/EvoAgentX) ⭐ 3,395 | 🐛 31 | 🌐 Python | 📅 2026-10-22] \[[📝 Paper](https://arxiv.org/abs/2507.03616)]
 * (*Arxiv'25*) MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems \[[📝 Paper](https://arxiv.org/abs/2505.16988)] \[[💻 Code](https://github.com/MASWorks/MASLab) ⭐ 247 | 🐛 8 | 🌐 Python | 📅 2025-07-25]
 
 ## 1. Single-Agent Optimisation
@@ -59,14 +59,14 @@
 
 ##### (2) 🔧 Reinforcement Learning Approaches
 
-* (*Arxiv'24*) Tulu 3: Pushing Frontiers in Open Language Model Post-Training \[[📝 Paper](https://arxiv.org/abs/2411.15124)] \[[💻 Code](https://github.com/allenai/open-instruct) ⭐ 3,902 | 🐛 153 | 🌐 Python | 📅 2026-10-22]
+* (*Arxiv'24*) Tulu 3: Pushing Frontiers in Open Language Model Post-Training \[[📝 Paper](https://arxiv.org/abs/2411.15124)] \[[💻 Code](https://github.com/allenai/open-instruct) ⭐ 3,907 | 🐛 157 | 🌐 Python | 📅 2026-10-23]
 * (*ICML'24*) Self-Rewarding Language Models \[[📝 Paper](https://arxiv.org/abs/2401.10020)] \[[💻 Code](https://github.com/lucidrains/self-rewarding-lm-pytorch) ⭐ 1,412 | 🐛 8 | 🌐 Python | 📅 2024-04-11]
-* (*Arxiv'25*) R-Zero: Self-Evolving Reasoning LLM from Zero Data \[[📝 Paper](https://arxiv.org/abs/2508.05004)] \[[💻 Code](https://github.com/Chengsong-Huang/R-Zero) ⭐ 858 | 🐛 8 | 🌐 Python | 📅 2026-02-04]
+* (*Arxiv'25*) R-Zero: Self-Evolving Reasoning LLM from Zero Data \[[📝 Paper](https://arxiv.org/abs/2508.05004)] \[[💻 Code](https://github.com/Chengsong-Huang/R-Zero) ⭐ 859 | 🐛 8 | 🌐 Python | 📅 2026-02-04]
 * (*Arxiv'25*) DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training \[[📝 Paper](https://arxiv.org/abs/2507.13833)] \[[💻 Code](https://github.com/sii-research/siiRL) ⭐ 382 | 🐛 8 | 🌐 Python | 📅 2026-01-30]
 * (*Arxiv'25*) Parallel-R1: Towards Parallel Thinking via Reinforcement Learning \[[📝 Paper](https://arxiv.org/abs/2509.07980)] \[[💻 Code](https://github.com/zhengkid/Parallel-R1) ⭐ 265 | 🐛 3 | 🌐 Python | 📅 2026-02-04]
 * (*Arxiv'25*) SSRL: Self-Search Reinforcement Learning \[[📝 Paper](https://arxiv.org/abs/2508.10874)] \[[💻 Code](https://github.com/TsinghuaC3I/SSRL) ⭐ 212 | 🐛 0 | 🌐 Python | 📅 2025-08-20]
 * (*Arxiv'25*) SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning \[[📝 Paper](https://arxiv.org/abs/2506.24119)] \[[💻 Code](https://github.com/spiral-rl/spiral) ⭐ 210 | 🐛 1 | 🌐 Python | 📅 2026-03-27]
-* (*Arxiv'25*) Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play \[[📝 Paper](https://www.arxiv.org/abs/2509.25541)] \[[💻 Code](https://github.com/wangqinsi1/Vision-Zero) ⭐ 193 | 🐛 5 | 🌐 Python | 📅 2026-08-12]
+* (*Arxiv'25*) Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play \[[📝 Paper](https://www.arxiv.org/abs/2509.25541)] \[[💻 Code](https://github.com/wangqinsi1/Vision-Zero) ⭐ 194 | 🐛 5 | 🌐 Python | 📅 2026-08-12]
 * (*EMNLP'24*) Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing \[[📝 Paper](https://arxiv.org/abs/2402.00658)] \[[💻 Code](https://github.com/SparkJiao/dpo-trajectory-reasoning) ⭐ 84 | 🐛 1 | 🌐 Python | 📅 2025-01-14]
 * (*ICML'25*) Diving into Self-Evolving Training for Multimodal Reasoning \[[📝 Paper](https://arxiv.org/abs/2412.17451)] \[[💻 Code](https://github.com/hkust-nlp/mstar) ⭐ 76 | 🐛 2 | 📅 2025-07-13]
 * (*Arxiv'25*) SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data \[[📝 Paper](https://arxiv.org/abs/2505.20347)] \[[💻 Code](https://github.com/wantbook-book/SeRL) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2026-01-24]
@@ -79,7 +79,7 @@
 ##### (1) 🔧 Feedback-Based Approaches
 
 * (*ICLR'23*) CodeT: Code Generation with Generated Tests \[[📝 Paper](https://arxiv.org/abs/2207.10397)] \[[💻 Code](https://github.com/microsoft/CodeT) ⭐ 677 | 🐛 10 | 🌐 Python | 📅 2024-11-01]
-* (*Arxiv'25*) Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy \[[📝 Paper](https://arxiv.org/abs/2507.01352)] \[[💻 Code](https://github.com/SkyworkAI/Skywork-Reward-V2) ⭐ 153 | 🐛 10 | 📅 2025-07-03]
+* (*Arxiv'25*) Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy \[[📝 Paper](https://arxiv.org/abs/2507.01352)] \[[💻 Code](https://github.com/SkyworkAI/Skywork-Reward-V2) ⭐ 154 | 🐛 10 | 📅 2025-07-03]
 * (*ICML'23*) LEVER: Learning to Verify Language-to-Code Generation with Execution \[[📝 Paper](https://arxiv.org/abs/2302.08468)] \[[💻 Code](https://github.com/niansong1996/lever) ⭐ 89 | 🐛 2 | 🌐 Python | 📅 2023-07-05]
 * (*EMNLP'24*) Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing \[[📝 Paper](https://arxiv.org/abs/2402.00658)] \[[💻 Code](https://github.com/SparkJiao/dpo-trajectory-reasoning) ⭐ 84 | 🐛 1 | 🌐 Python | 📅 2025-01-14]
 * (*ESEC/FSE'23*) Baldur: Whole-Proof Generation and Repair with Large Language Models \[[📝 Paper](https://arxiv.org/abs/2303.04910)]
@@ -90,8 +90,8 @@
 ##### (2) 🔧 Search-Based Approaches
 
 * (*NeurIPS'23*) Tree of thoughts: Deliberate problem solving with large language models \[[📝 Paper](https://arxiv.org/abs/2305.10601)] \[[💻 Code](https://github.com/princeton-nlp/tree-of-thought-llm) ⭐ 6,080 | 🐛 8 | 🌐 Python | 📅 2025-01-16]
-* (*AAAI'24*) Graph of thoughts: Solving elaborate problems with large language models \[[📝 Paper](https://arxiv.org/abs/2308.09687)] \[[💻 Code](https://github.com/spcl/graph-of-thoughts) ⭐ 2,844 | 🐛 7 | 🌐 Python | 📅 2026-03-24]
-* (*NeurIPS'24*) AIDE: An Automatic Data Science Agent \[[📝 Paper](https://arxiv.org/abs/2502.13138)] \[[💻 Code](https://github.com/WecoAI/aideml) ⭐ 1,589 | 🐛 3 | 🌐 Python | 📅 2026-10-16]
+* (*AAAI'24*) Graph of thoughts: Solving elaborate problems with large language models \[[📝 Paper](https://arxiv.org/abs/2308.09687)] \[[💻 Code](https://github.com/spcl/graph-of-thoughts) ⭐ 2,845 | 🐛 7 | 🌐 Python | 📅 2026-03-24]
+* (*NeurIPS'24*) AIDE: An Automatic Data Science Agent \[[📝 Paper](https://arxiv.org/abs/2502.13138)] \[[💻 Code](https://github.com/WecoAI/aideml) ⭐ 1,590 | 🐛 3 | 🌐 Python | 📅 2026-10-16]
 * (*NeurIPS'24*) Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models \[[📝 Paper](https://arxiv.org/abs/2406.04271)] \[[💻 Code](https://github.com/YangLing0818/buffer-of-thought-llm) ⭐ 677 | 🐛 14 | 🌐 Python | 📅 2025-06-28]
 * (*ICML'25*) Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning \[[📝 Paper](https://arxiv.org/abs/2412.09078)] \[[💻 Code](https://github.com/iamhankai/Forest-of-Thought) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2025-05-01]
 * (*ACL'23*) Solving Math Word Problems via Cooperative Reasoning induced Language Models \[[📝 Paper](https://arxiv.org/abs/2210.16257)] \[[💻 Code](https://github.com/TianHongZXY/CoRe) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2023-12-15]
@@ -120,7 +120,7 @@
 
 #### 1.2.3 📌 Generative Prompt Optimisation
 
-* (*EMNLP'24*) Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs \[[📝 Paper](https://arxiv.org/abs/2406.11695)] \[[💻 Code](https://github.com/stanfordnlp/dspy) ⭐ 38,722 | 🐛 813 | 🌐 Python | 📅 2026-10-21]
+* (*EMNLP'24*) Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs \[[📝 Paper](https://arxiv.org/abs/2406.11695)] \[[💻 Code](https://github.com/stanfordnlp/dspy) ⭐ 38,738 | 🐛 824 | 🌐 Python | 📅 2026-10-23]
 * (*ICLR'23*) Large Language Models Are Human-Level Prompt Engineers \[[📝 Paper](https://arxiv.org/abs/2211.01910)] \[[💻 Code](https://github.com/keirp/automatic_prompt_engineer) ⭐ 1,367 | 🐛 22 | 🌐 Python | 📅 2024-04-29]
 * (*ICLR'24*) Large Language Models as Optimizers \[[📝 Paper](https://arxiv.org/abs/2309.03409)] \[[💻 Code](https://github.com/google-deepmind/opro) ⭐ 785 | 🐛 6 | 🌐 Python | 📅 2024-12-04]
 * (*ICLR'24*) PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization \[[📝 Paper](https://arxiv.org/abs/2310.16427)] \[[💻 Code](https://github.com/XinyuanWangCS/PromptAgent) ⭐ 358 | 🐛 0 | 🌐 Python | 📅 2025-07-17]
@@ -142,7 +142,7 @@
 ### 1.3 🧠 Memory Optimization
 
 * (*Arxiv'25*) Memento: Fine‑tuning LLM Agents without Fine‑tuning LLMs \[[📝 Paper](https://www.arxiv.org/abs/2508.16153)] \[[💻 Code](https://github.com/Agent-on-the-Fly/Memento) ⭐ 2,601 | 🐛 14 | 🌐 Python | 📅 2025-10-05]
-* (*Arxiv'25*) Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory \[[📝 Paper](https://arxiv.org/abs/2508.09736)] \[[💻 Code](https://github.com/bytedance-seed/m3-agent) ⭐ 1,463 | 🐛 18 | 🌐 Python | 📅 2026-02-12]
+* (*Arxiv'25*) Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory \[[📝 Paper](https://arxiv.org/abs/2508.09736)] \[[💻 Code](https://github.com/bytedance-seed/m3-agent) ⭐ 1,464 | 🐛 18 | 🌐 Python | 📅 2026-02-12]
 * (*ICLR'25*) Boosting knowledge intensive reasoning of llms via inference-time hybrid information \[[📝 Paper](https://arxiv.org/abs/2410.08815)] \[[💻 Code](https://github.com/icip-cas/StructRAG) ⭐ 171 | 🐛 4 | 🌐 Python | 📅 2025-12-18]
 * (*ICML'24*) A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts \[[📝 Paper](https://arxiv.org/abs/2402.09727)]
 * (*ICML'24*) Agent Workflow Memory \[[📝 Paper](https://arxiv.org/abs/2409.07429)]
@@ -188,13 +188,13 @@
 
 ##### (1) Prompt-Based Optimisation
 
-* (*NAACL'25*) EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction \[[📝 Paper](https://arxiv.org/abs/2401.06201)] \[[💻 Code](https://github.com/microsoft/JARVIS/tree/main/easytool) ⭐ 25,472 | 🐛 4,246 | 🌐 Python | 📅 2025-07-29]
+* (*NAACL'25*) EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction \[[📝 Paper](https://arxiv.org/abs/2401.06201)] \[[💻 Code](https://github.com/microsoft/JARVIS/tree/main/easytool) ⭐ 25,482 | 🐛 4,248 | 🌐 Python | 📅 2025-07-29]
 * (*ICLR'25*) From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions \[[📝 Paper](https://arxiv.org/abs/2410.08197)] \[[💻 Code](https://github.com/quchangle1/DRAFT) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2025-08-09]
 * (*ACL'25*) Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play \[[📝 Paper](https://arxiv.org/abs/2503.14432)] \[[💻 Code](https://github.com/wfangtw/play2prompt) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-07-29]
 
 ##### (2) Reasoning-Based Optimisation
 
-* (*Arxiv'25*) MCP-Zero: Active Tool Discovery for Autonomous LLM Agents \[[📝 Paper](https://arxiv.org/abs/2506.01056)]\[[💻 Code](https://github.com/xfey/MCP-Zero) ⭐ 515 | 🐛 18 | 🌐 Python | 📅 2025-07-02]
+* (*Arxiv'25*) MCP-Zero: Active Tool Discovery for Autonomous LLM Agents \[[📝 Paper](https://arxiv.org/abs/2506.01056)]\[[💻 Code](https://github.com/xfey/MCP-Zero) ⭐ 516 | 🐛 18 | 🌐 Python | 📅 2025-07-02]
 * (*ICLR'25*) Tool-Planner: Task Planning with Clusters across Multiple Tools \[[📝 Paper](https://arxiv.org/abs/2406.03807)] \[[💻 Code](https://github.com/OceannTwT/Tool-Planner) ⭐ 114 | 🐛 5 | 🌐 Python | 📅 2026-01-26]
 * (*ICLR'24*) ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs \[[📝 Paper](https://arxiv.org/abs/2307.16789)] \[[💻 Code](https://github.com/beijixiong1/ToolLLM) ⭐ 22 | 🐛 0 | 📅 2023-08-04]
 * (*ICLR'24*) ToolChain\*: Efficient Action Space Navigation in Large Language Models with A\* Search \[[📝 Paper](https://arxiv.org/abs/2310.13227)]
@@ -219,16 +219,16 @@
 
 ### 2.2 🚀 MAS Optimisation
 
-* (*ICLR'25*) AFlow: Automating Agentic Workflow Generation \[[📝 Paper](https://arxiv.org/abs/2410.10762)] \[[💻 Code](https://github.com/geekan/MetaGPT/tree/main/examples/aflow) ⭐ 70,955 | 🐛 139 | 🌐 Python | 📅 2026-01-21]
-* (*ICLR'24*) MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework \[[📝 Paper](https://openreview.net/forum?id=VtmBAGCN7o)] \[[💻 Code](https://github.com/geekan/MetaGPT) ⭐ 70,955 | 🐛 139 | 🌐 Python | 📅 2026-01-21]
-* (*COLM'24*) AutoGen: Enabling next-Gen LLM Applications via Multi-Agent Conversations \[[📝 Paper](https://openreview.net/forum?id=BAakY1hNKS)] \[[💻 Code](https://github.com/microsoft/autogen) ⭐ 61,518 | 🐛 1,123 | 🌐 Python | 📅 2026-10-16]
-* (*ICLR'24*) DSPy: Compiling Declarative Language Model Calls into State-of-the-Art Pipelines \[[📝 Paper](https://openreview.net/forum?id=sY5N0zY5Od)] \[[💻 Code](https://github.com/stanfordnlp/dspy) ⭐ 38,722 | 🐛 813 | 🌐 Python | 📅 2026-10-21]
-* (*Arxiv' 25*) R\&D-Agent: Automating Data-Driven AI Solution Building Through LLM-Powered Automated Research, Development, and Evolution \[[📝 Paper](https://arxiv.org/abs/2505.14738)] \[[💻 Code](https://github.com/microsoft/RD-Agent) ⭐ 15,013 | 🐛 253 | 🌐 Python | 📅 2026-10-21]
+* (*ICLR'25*) AFlow: Automating Agentic Workflow Generation \[[📝 Paper](https://arxiv.org/abs/2410.10762)] \[[💻 Code](https://github.com/geekan/MetaGPT/tree/main/examples/aflow) ⭐ 70,972 | 🐛 139 | 🌐 Python | 📅 2026-01-21]
+* (*ICLR'24*) MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework \[[📝 Paper](https://openreview.net/forum?id=VtmBAGCN7o)] \[[💻 Code](https://github.com/geekan/MetaGPT) ⭐ 70,972 | 🐛 139 | 🌐 Python | 📅 2026-01-21]
+* (*COLM'24*) AutoGen: Enabling next-Gen LLM Applications via Multi-Agent Conversations \[[📝 Paper](https://openreview.net/forum?id=BAakY1hNKS)] \[[💻 Code](https://github.com/microsoft/autogen) ⭐ 61,531 | 🐛 1,122 | 🌐 Python | 📅 2026-10-16]
+* (*ICLR'24*) DSPy: Compiling Declarative Language Model Calls into State-of-the-Art Pipelines \[[📝 Paper](https://openreview.net/forum?id=sY5N0zY5Od)] \[[💻 Code](https://github.com/stanfordnlp/dspy) ⭐ 38,738 | 🐛 824 | 🌐 Python | 📅 2026-10-23]
+* (*Arxiv' 25*) R\&D-Agent: Automating Data-Driven AI Solution Building Through LLM-Powered Automated Research, Development, and Evolution \[[📝 Paper](https://arxiv.org/abs/2505.14738)] \[[💻 Code](https://github.com/microsoft/RD-Agent) ⭐ 15,022 | 🐛 254 | 🌐 Python | 📅 2026-10-21]
 * (*Arxiv'24*) Symbolic Learning Enables Self-Evolving Agents \[[📝 Paper](https://arxiv.org/abs/2406.18532)] \[[💻 Code](https://github.com/aiwaves-cn/agents) ⭐ 5,969 | 🐛 50 | 🌐 Python | 📅 2024-09-26]
 * (*ICLR'24*) AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors \[[📝 Paper](https://openreview.net/forum?id=EHg5GDnyq1)] \[[💻 Code](https://github.com/OpenBMB/AgentVerse) ⭐ 5,158 | 🐛 41 | 🌐 JavaScript | 📅 2024-09-09]
-* (*ICLR'25*) Automated Design of Agentic Systems \[[📝 Paper](https://arxiv.org/abs/2408.08435)] \[[💻 Code](https://github.com/ShengranHu/ADAS) ⭐ 1,654 | 🐛 11 | 🌐 Python | 📅 2025-01-28]
-* (*Arxiv'26*) CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery \[[📝 Paper](https://arxiv.org/abs/2604.01658)] \[[💻 Code](https://github.com/Human-Agent-Society/CORAL) ⭐ 1,090 | 🐛 24 | 🌐 Python | 📅 2026-10-19]
-* (*ICML'24*) GPTSwarm: Language Agents as Optimizable Graphs \[[📝 Paper](https://arxiv.org/abs/2402.16823)] \[[Code](https://github.com/metauto-ai/gptswarm) ⭐ 1,055 | 🐛 7 | 🌐 Python | 📅 2026-02-05]
+* (*ICLR'25*) Automated Design of Agentic Systems \[[📝 Paper](https://arxiv.org/abs/2408.08435)] \[[💻 Code](https://github.com/ShengranHu/ADAS) ⭐ 1,656 | 🐛 11 | 🌐 Python | 📅 2025-01-28]
+* (*Arxiv'26*) CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery \[[📝 Paper](https://arxiv.org/abs/2604.01658)] \[[💻 Code](https://github.com/Human-Agent-Society/CORAL) ⭐ 1,095 | 🐛 24 | 🌐 Python | 📅 2026-10-19]
+* (*ICML'24*) GPTSwarm: Language Agents as Optimizable Graphs \[[📝 Paper](https://arxiv.org/abs/2402.16823)] \[[Code](https://github.com/metauto-ai/gptswarm) ⭐ 1,056 | 🐛 7 | 🌐 Python | 📅 2026-02-05]
 * (*Arxiv'25*) Chain‑of‑Agents: End‑to‑End Agent Foundation Models via Multi‑Agent Distillation and Agentic RL \[[📝 Paper](https://arxiv.org/abs/2508.13167)] \[[💻 Code](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models) ⭐ 585 | 🐛 6 | 🌐 Python | 📅 2025-09-08]
 * (*Arxiv’25*) Agent KB: Leveraging Cross‑Domain Experience for Agentic Problem Solving \[[📝 Paper](https://arxiv.org/abs/2507.06229)] \[[💻 Code](https://github.com/OPPO-PersonalAI/Agent-KB) ⭐ 453 | 🐛 0 | 🌐 Python | 📅 2025-08-19]
 * (*ICML'25*) Multi-Agent Architecture Search via Agentic Supernet \[[📝 Paper](https://doi.org/10.48550/arXiv.2502.04180)] \[[💻Code](https://github.com/bingreeky/MaAS) ⭐ 288 | 🐛 9 | 🌐 Python | 📅 2025-11-13]
@@ -259,7 +259,7 @@
 * (*EMNLP'24*) MMedAgent: Learning to Use Medical Tools with Multi-modal Agent \[[📝 Paper](https://arxiv.org/abs/2407.02483)] \[[💻 Code](https://github.com/Wangyixinxin/MMedAgent) ⭐ 278 | 🐛 10 | 🌐 Python | 📅 2026-03-18]
 * (*Arxiv'25*) MedAgent-Pro: Towards Evidence-based Multi-modal
   Medical Diagnosis via Reasoning Agentic Workflow <br> \[[📝 Paper](https://arxiv.org/pdf/2503.18968)] \[[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro) ⭐ 206 | 🐛 4 | 🌐 Python | 📅 2026-05-12]
-* (*MICCAI'25*) MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions \[[📝 Paper](https://arxiv.org/pdf/2503.22678)] \[[💻 Code](https://github.com/MAXNORM8650/MedAgentSim) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2026-10-06]
+* (*MICCAI'25*) MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions \[[📝 Paper](https://arxiv.org/pdf/2503.22678)] \[[💻 Code](https://github.com/MAXNORM8650/MedAgentSim) ⭐ 186 | 🐛 1 | 🌐 Python | 📅 2026-10-06]
 * (*Arxiv'25*) STELLA: Self-Evolving LLM Agent for Biomedical Research \[[📝 Paper](https://arxiv.org/abs/2507.02004)]\[[💻 Code](https://github.com/zaixizhang/STELLA) ⭐ 159 | 🐛 0 | 🌐 Python | 📅 2026-09-15]
 * (*Arxiv'25*) Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs \[[📝 Paper](https://arxiv.org/abs/2505.07184)] \[[💻 Code](https://github.com/weiyifan1023/senator) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2025-11-21]
 * (*Arxiv'25*) HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research \[[📝 Paper](https://arxiv.org/pdf/2508.02621)]\[[💻 Code](https://github.com/yhzhu99/HealthFlow) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2026-09-23]
@@ -271,7 +271,7 @@
 
 * (*NMI'24*) ChemCrow: Augmenting large language models with chemistry tools \[[📝 Paper](https://arxiv.org/abs/2304.05376)] \[[💻 Code](https://github.com/ur-whitelab/chemcrow-public) ⭐ 966 | 🐛 15 | 🌐 Python | 📅 2024-12-19]
 * (*Arxiv'25*) GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis <br> \[[📝 Paper](https://arxiv.org/abs/2507.21035)] \[[💻 Code](https://github.com/Liu-Hy/GenoMAS) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2026-10-20]
-* (*ICLR'25*) ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning\[[📝 Paper](https://arxiv.org/abs/2501.06590)] \[[💻 Code](https://github.com/gersteinlab/ChemAgent) ⭐ 92 | 🐛 3 | 🌐 Python | 📅 2025-07-31]
+* (*ICLR'25*) ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning\[[📝 Paper](https://arxiv.org/abs/2501.06590)] \[[💻 Code](https://github.com/gersteinlab/ChemAgent) ⭐ 93 | 🐛 3 | 🌐 Python | 📅 2025-07-31]
 * (*ACS omega'24*) CACTUS: Chemistry Agent Connecting Tool-Usage to Science \[[📝 Paper](https://arxiv.org/abs/2405.00972)] \[[💻 Code](https://github.com/pnnl/cactus) ⭐ 52 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-04-07]
 * (*ICLR'25*) OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents \[[📝 Paper](https://openreview.net/forum?id=9YNyiCJE3k)]
 * (*Arxiv'25*) DrugAgent: Automating AI-aided Drug Discovery Programming through
@@ -282,9 +282,9 @@
 
 #### 3.2.1 📌 Code Refinement
 
-* (*ICLR'25*) OpenHands: An Open Platform for AI Software Developers as Generalist Agents \[[📝 Paper](https://arxiv.org/abs/2407.16741)] \[[💻 Code](https://github.com/All-Hands-AI/OpenHands) ⭐ 91,498 | 🐛 1,074 | 🌐 TypeScript | 📅 2026-10-22]
-* (*Software'25*) OpenEvolve: an open-source evolutionary coding agent \[[📝 Instructions](https://huggingface.co/blog/codelion/openevolve)] \[[💻 Code](https://github.com/codelion/openevolve) ⭐ 7,618 | 🐛 98 | 🌐 Python | 📅 2026-10-21]
-* (*Arxiv'25*) Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents \[[📝 Paper](https://arxiv.org/pdf/2505.22954)] \[[💻 Code](https://github.com/jennyzzt/dgm) ⭐ 2,442 | 🐛 30 | 🌐 Python | 📅 2025-08-13]
+* (*ICLR'25*) OpenHands: An Open Platform for AI Software Developers as Generalist Agents \[[📝 Paper](https://arxiv.org/abs/2407.16741)] \[[💻 Code](https://github.com/All-Hands-AI/OpenHands) ⭐ 91,594 | 🐛 1,093 | 🌐 TypeScript | 📅 2026-10-23]
+* (*Software'25*) OpenEvolve: an open-source evolutionary coding agent \[[📝 Instructions](https://huggingface.co/blog/codelion/openevolve)] \[[💻 Code](https://github.com/codelion/openevolve) ⭐ 7,625 | 🐛 98 | 🌐 Python | 📅 2026-10-22]
+* (*Arxiv'25*) Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents \[[📝 Paper](https://arxiv.org/pdf/2505.22954)] \[[💻 Code](https://github.com/jennyzzt/dgm) ⭐ 2,445 | 🐛 30 | 🌐 Python | 📅 2025-08-13]
 * (*Arxiv'23*) Self-Refine: Iterative Refinement with Self-Feedback \[[📝 Paper](https://arxiv.org/abs/2303.17651)] \[[💻 Code](https://github.com/madaan/self-refine) ⭐ 822 | 🐛 10 | 🌐 Python | 📅 2024-10-04]
 * (*Arxiv'23*) AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation \[[📝 Paper](https://arxiv.org/abs/2312.13010)] \[[💻 Code](https://github.com/huangd1999/AgentCoder) ⭐ 391 | 🐛 11 | 🌐 Python | 📅 2025-11-18]
 * (*ICLR'25*) Self-Evolving Multi-Agent Collaboration Networks for Software Development \[[📝 Paper](https://openreview.net/forum?id=4R71pdPBZp)] \[[💻 Code](https://github.com/yuzhu-cai/rSDE-Bench) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2025-05-29]
@@ -308,17 +308,17 @@
 
 #### 3.4.1 📌 Financial Decision-Making
 
-* (*Arxiv'25*) R\&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization \[[📝 Paper](https://arxiv.org/abs/2505.15155)] \[[💻 Code](https://github.com/microsoft/RD-Agent) ⭐ 15,013 | 🐛 253 | 🌐 Python | 📅 2026-10-21]
+* (*Arxiv'25*) R\&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization \[[📝 Paper](https://arxiv.org/abs/2505.15155)] \[[💻 Code](https://github.com/microsoft/RD-Agent) ⭐ 15,022 | 🐛 254 | 🌐 Python | 📅 2026-10-21]
 * (*Arxiv'24*) FinRobot: an open-source ai agent platform for financial applications using large language
-  models \[[📝 Paper](https://arxiv.org/abs/2405.14767)] \[[💻 Code](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ 8,262 | 🐛 77 | 🌐 Python | 📅 2026-09-28]
-* (*Arxiv'24*) PEER: Expertizing domain-specific tasks with a multi-agent framework and tuning methods \[[📝 Paper](https://arxiv.org/abs/2407.06985)] \[[💻 Code](https://github.com/agentuniverse-ai/agentUniverse) ⭐ 2,386 | 🐛 2,539 | 🌐 Python | 📅 2026-10-21]
+  models \[[📝 Paper](https://arxiv.org/abs/2405.14767)] \[[💻 Code](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ 8,265 | 🐛 77 | 🌐 Python | 📅 2026-09-28]
+* (*Arxiv'24*) PEER: Expertizing domain-specific tasks with a multi-agent framework and tuning methods \[[📝 Paper](https://arxiv.org/abs/2407.06985)] \[[💻 Code](https://github.com/agentuniverse-ai/agentUniverse) ⭐ 2,387 | 🐛 2,519 | 🌐 Python | 📅 2026-10-22]
 * (*NeurIPS'25*) Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced
   financial decision making \[[📝 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)]  \[[💻 Code](https://github.com/The-FinAI/FinCon) ⭐ 69 | 🐛 2 | 📅 2026-10-08]
 
 #### 3.4.2 📌 Legal Reasoning
 
 * (*Arxiv'24*) LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model
-  \[[📝 Paper](https://arxiv.org/abs/2406.04614)] \[[💻 Code](https://github.com/pengxiao-song/LaWGPT) ⭐ 6,055 | 🐛 87 | 🌐 Python | 📅 2024-06-11]
+  \[[📝 Paper](https://arxiv.org/abs/2406.04614)] \[[💻 Code](https://github.com/pengxiao-song/LaWGPT) ⭐ 6,054 | 🐛 87 | 🌐 Python | 📅 2024-06-11]
 * (*ACL Findings'25*) AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents \[[📝 Paper](https://aclanthology.org/2025.findings-acl.304/)] \[[💻 Code](https://github.com/relic-yuexi/AgentCourt) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2024-09-05]
 * (*Arxiv'24*) LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation \[[📝 Paper](https://arxiv.org/abs/2407.16252)]
 * (*ICIC'24*) Legalgpt: Legal chain of thought for the legal large
@@ -341,7 +341,7 @@
 
 #### 4.1.1 📌 Tool and API-Driven Agents
 
-* (*EMNLP'23*) API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs \[[📝 Paper](https://arxiv.org/abs/2304.08244)] \[[💻 Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank) ⭐ 1,611 | 🐛 84 | 🌐 Python | 📅 2026-10-19]
+* (*EMNLP'23*) API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs \[[📝 Paper](https://arxiv.org/abs/2304.08244)] \[[💻 Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank) ⭐ 1,613 | 🐛 84 | 🌐 Python | 📅 2026-10-19]
 * (*NeurIPS'23*) ToolQA: A Dataset for LLM Question Answering with External Tools \[[📝 Paper](https://arxiv.org/abs/2306.13304)] \[[💻 Code](https://github.com/night-chen/ToolQA) ⭐ 287 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2023-08-19]
 * (*Arxiv'23*) On the Tool Manipulation Capability of Open-source Large Language Models \[[📝 Paper](https://arxiv.org/abs/2305.16504)] \[[💻 Code](https://github.com/sambanova/toolbench) ⭐ 183 | 🐛 1 | 🌐 Python | 📅 2026-07-27]
 * (*ICLR'24*) MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use
@@ -351,13 +351,13 @@
 
 #### 4.1.2 📌 Web Navigation and Browsing Agents
 
-* (*ACL'25*) WebWalker: Benchmarking LLMs in Web Traversal \[[📝 Paper](https://arxiv.org/abs/2501.07572)] \[[💻 Code](https://github.com/Alibaba-NLP/WebAgent) ⭐ 20,068 | 🐛 99 | 🌐 Python | 📅 2026-02-27]
-* (*Arxiv'25*) BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents \[[📝 Paper](https://arxiv.org/abs/2504.12516)] \[[💻 Code](https://github.com/openai/simple-evals) ⭐ 4,671 | 🐛 67 | 🌐 Python | 📅 2026-04-22]
+* (*ACL'25*) WebWalker: Benchmarking LLMs in Web Traversal \[[📝 Paper](https://arxiv.org/abs/2501.07572)] \[[💻 Code](https://github.com/Alibaba-NLP/WebAgent) ⭐ 20,072 | 🐛 99 | 🌐 Python | 📅 2026-02-27]
+* (*Arxiv'25*) BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents \[[📝 Paper](https://arxiv.org/abs/2504.12516)] \[[💻 Code](https://github.com/openai/simple-evals) ⭐ 4,672 | 🐛 67 | 🌐 Python | 📅 2026-04-22]
 * (*ICLR'24*) WebArena: A Realistic Web Environment for Building Autonomous Agents \[[📝 Paper](https://arxiv.org/abs/2307.13854)] \[[💻 Code](https://github.com/web-arena-x/webarena) ⭐ 1,636 | 🐛 106 | 🌐 Python | 📅 2025-11-26]
 
 #### 4.1.3 📌 Coding Agents
 
-* (*ICLR'24*) SWE-bench: Can Language Models Resolve Real-World GitHub Issues? \[[📝 Paper](https://arxiv.org/abs/2310.06770)] \[[💻 Code](https://github.com/SWE-bench/SWE-bench) ⭐ 6,068 | 🐛 45 | 🌐 Python | 📅 2026-09-18]
+* (*ICLR'24*) SWE-bench: Can Language Models Resolve Real-World GitHub Issues? \[[📝 Paper](https://arxiv.org/abs/2310.06770)] \[[💻 Code](https://github.com/SWE-bench/SWE-bench) ⭐ 6,071 | 🐛 46 | 🌐 Python | 📅 2026-09-18]
 * (*ICLR'25*) Self-Evolving Multi-Agent Collaboration Networks for Software Development \[[📝 Paper](https://openreview.net/forum?id=4R71pdPBZp)] \[[💻 Code](https://github.com/yuzhu-cai/rSDE-Bench) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2025-05-29]
 
 #### 4.1.4 Scientific Research Agents
@@ -366,15 +366,15 @@
 
 #### 4.1.4 📌 Multi-Agent Collaboration and Generalists
 
-* (*ICLR'24*) AgentBench: Evaluating LLMs as Agents \[[📝 Paper](https://arxiv.org/abs/2308.03688)] \[[💻 Code](https://github.com/THUDM/AgentBench) ⭐ 3,784 | 🐛 80 | 🌐 Python | 📅 2026-02-08]
+* (*ICLR'24*) AgentBench: Evaluating LLMs as Agents \[[📝 Paper](https://arxiv.org/abs/2308.03688)] \[[💻 Code](https://github.com/THUDM/AgentBench) ⭐ 3,786 | 🐛 80 | 🌐 Python | 📅 2026-02-08]
 * (*Arxiv'25*) MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents \[[📝 Paper](https://arxiv.org/abs/2503.01935)] \[[💻 Code](https://github.com/MultiagentBench/MARBLE) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2025-06-21]
 * (*Arxiv'25*) Benchmarking LLMs' Swarm intelligence \[[📝 Paper](https://arxiv.org/abs/2505.04364)] \[[💻 Code](https://github.com/RUC-GSAI/YuLan-SwarmIntell) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2025-05-21]
 * (*ICLR'23*) GAIA: a benchmark for General AI Assistants \[[📝 Paper](https://arxiv.org/abs/2311.12983)] \[[💻 Code](https://huggingface.co/gaia-benchmark)]
 
 #### 4.1.5 📌 GUI and Multimodal Environment Agents
 
-* (*NeurIPS'24*) OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments \[[📝 Paper](https://arxiv.org/abs/2404.07972)] \[[💻 Code](https://github.com/xlang-ai/OSWorld) ⭐ 3,229 | 🐛 184 | 🌐 Python | 📅 2026-10-21]
-* (*ICLR'25*) AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents \[[📝 Paper](https://arxiv.org/abs/2405.14573)] \[[💻 Code](https://github.com/google-research/android_world) ⭐ 969 | 🐛 57 | 🌐 Python | 📅 2026-10-19]
+* (*NeurIPS'24*) OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments \[[📝 Paper](https://arxiv.org/abs/2404.07972)] \[[💻 Code](https://github.com/xlang-ai/OSWorld) ⭐ 3,230 | 🐛 184 | 🌐 Python | 📅 2026-10-23]
+* (*ICLR'25*) AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents \[[📝 Paper](https://arxiv.org/abs/2405.14573)] \[[💻 Code](https://github.com/google-research/android_world) ⭐ 972 | 🐛 57 | 🌐 Python | 📅 2026-10-19]
 * (*ACL'24*) Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents \[[📝 Paper](https://arxiv.org/abs/2407.00993)] \[[💻 Code](https://github.com/XiaoMi/MobileBench) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2024-12-06]
 
 ### 4.2 ⚖️ LLM-Based Evaluation
@@ -393,7 +393,7 @@
 
 ### 4.3 🛡 Safety, Alignment, and Robustness for Lifelong / Self-Evolving Agents
 
-* (*ICLR'25 Spotlight*) AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs \[[📝 Paper](https://arxiv.org/abs/2410.05295)] \[[💻 Code](https://github.com/SaFoLab-WISC/AutoDAN-Turbo) ⭐ 395 | 🐛 7 | 🌐 Python | 📅 2025-10-08]
+* (*ICLR'25 Spotlight*) AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs \[[📝 Paper](https://arxiv.org/abs/2410.05295)] \[[💻 Code](https://github.com/SaFoLab-WISC/AutoDAN-Turbo) ⭐ 396 | 🐛 7 | 🌐 Python | 📅 2025-10-08]
 * (*ACL'25*) AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection \[[📝 Paper](https://arxiv.org/abs/2502.11448)] \[[💻 Code](https://github.com/SaFoLab-WISC/AGrail4Agent) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2026-08-12]
 * (*Arxiv'24*) AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents \[[📝 Paper](https://arxiv.org/abs/2410.09024) ]
 * (*NeurIPS'24 – Datasets & Benchmarks*) RedCode: Risky Code Execution and Generation \[[📝 Paper](https://arxiv.org/abs/2411.07781) ]
@@ -431,4 +431,4 @@ Email: <j.fang.2@research.gla.ac.uk> and <zaiqiao.meng@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
